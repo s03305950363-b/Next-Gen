@@ -1,0 +1,5 @@
+console.log("Welcome to Next Gen!");
+
+document.addEventListener("DOMContentLoaded", function () {
+    alert("Welcome to Next Gen eCommerce Website!");
+});
